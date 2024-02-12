@@ -93,7 +93,7 @@ export default function ContactusPage() {
           scale: "0.9",
           display: "flex"
         }}>
-        <ContactUsAnimation />
+        {/* <ContactUsAnimation /> */}
         </div>
         }
       </div>
