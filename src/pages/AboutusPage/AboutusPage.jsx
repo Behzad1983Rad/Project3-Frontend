@@ -22,7 +22,7 @@ export default function AboutusPage() {
         
         <h2 className="fade-in">Meet the Team</h2>
         <p className="fade-in-delay"><strong>Baran:</strong> With a keen eye for design and a passion for all things cosmic, Baran brings creativity and innovation to the Cosmic Collectibles experience. From curating our collection to crafting engaging user experiences, Baran's dedication to excellence shines through in every aspect of our website.</p>
-        <p className="fade-in-delay"><a href="https://www.linkedin.com/in/behzad-radgizadeh" style={{textDecoration: "none"}}><strong>Behzad:</strong></a>
+        <p className="fade-in-delay"><a href="https://www.linkedin.com/in/behzad-radgizadeh" style={{textDecoration: "none"}}><strong>Behzad: </strong></a>
          As the backbone of our technical operations, Behzad ensures that Cosmic Collectibles runs smoothly and seamlessly. With expertise in backend development and a knack for problem-solving, Behzad keeps our website secure, efficient, and user-friendly, ensuring a seamless shopping experience for our customers.</p>
         <p className="fade-in-delay"><strong>Alex:</strong> With a deep appreciation for the wonders of the universe and a commitment to customer satisfaction, Alex is the driving force behind Cosmic Collectibles' customer service and community engagement efforts. From answering inquiries to providing personalized recommendations, Alex is dedicated to ensuring that every customer's experience with Cosmic Collectibles is nothing short of stellar.</p>
         
